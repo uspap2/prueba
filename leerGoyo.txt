@@ -1,1 +1,7 @@
+<<<<<<< HEAD
+
+=======
 esto es  master
+
+añado algo en PRUEBA
+>>>>>>> Prueba

@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 nuevo Archivo fue MODIFICATI
 xxxxxxxxxxx
 
 modifique en masters xxxx
+=======
+esto es una prueba en PRUEBA
+
+se edito en prueba
+>>>>>>> Prueba
